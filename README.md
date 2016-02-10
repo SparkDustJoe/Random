@@ -32,7 +32,7 @@ Such as:
 
  This is a small program to convert ANY file to Base64 surrounded by XML for use with PasteBin, GIST, email,
   or any other text base transfer system.  Uses GZip .NET compression when requested, no other external
-  libraries or code.  .NET 4 and Visual Studio 2010 or above.
+  libraries or code.  .NET 4 and Visual Studio 2010 or above.  (DEPRECATED in favor of the FileToXml project)
 
 -ASCII85 encoding
  Simple stand-alone class file using code found on the net ported to C#.  Not RFC1924 compatible, and Adobe
