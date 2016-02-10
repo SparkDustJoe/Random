@@ -1,0 +1,2 @@
+This project is superseded by the FileToXml project elsewhere on my GitHub.
+github.com/SparkDustJoe
