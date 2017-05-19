@@ -40,8 +40,8 @@ public static class Ascii85yz
     /// </summary>
     public const bool AllowYBlock = true;
     /// <summary>
-    /// If true, then remove invalid characters and do not throw exceptions.
-    /// If false, throw an exception on first invalid character.
+    /// If false, then remove invalid characters and do not throw exceptions.
+    /// If true, throw an exception on first invalid character.
     /// </summary>
     private const bool ErrorOnInvalidChars = true;
 
